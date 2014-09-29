@@ -8,8 +8,8 @@ Built with Google's Go using negroni and gorilla. Designed as a single binary ap
 Current dev frontend is using Polymer + paper elements ala Google Material Design spec.
 
 Current feature list for 0.1:
-  - Add, edit and remove Properties (listings)
-  - Add, edit and remove Contacts (buyers, sellers/owners)
+  - Add, edit and remove Properties/Listings (eg. house, land, unit, business, etc)
+  - Add, edit and remove Contacts (eg. buyers, sellers/owners)
   - Link Contacts with Properties
   - Extensive set of preset 'features' for Property details (including photos)
   - Ability to add custom property features required for your specific agency (eg. carport, garden size, etc)
