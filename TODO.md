@@ -1,5 +1,5 @@
-Realty Manager TODO List:
-=========================
+TODO List
+==========
 
 Initial Realty Manager Features
 	- User logins
@@ -32,4 +32,3 @@ Initial Realty Manager Features
 Required Technical Goals for Initial Release
 	- Complete test coverage
 	- Ability to swap out database (MySQL, PostgreSQL, etc)
-	- 
