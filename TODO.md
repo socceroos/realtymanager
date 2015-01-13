@@ -32,5 +32,5 @@ Initial Realty Manager Features
 
 Required Technical Goals for Initial Release
 --------------------------------------------
-- Complete test coverage
+- Complete test coverage - 10%
 - Ability to swap out database (MySQL, PostgreSQL, etc)
