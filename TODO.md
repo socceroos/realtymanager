@@ -30,7 +30,7 @@ Initial Realty Manager Features
 	- Schedule templates (eg. for potential listings: vendor call backs, vendor appts, presentation preparation, send listing forms, etc)
 	- Apply schedule template to a property or contact
 
-Required Technical Goals for Initial Release
---------------------------------------------
+Technical Goals for Initial Release
+-----------------------------------
 - Complete test coverage - 10%
 - Ability to swap out database (MySQL, PostgreSQL, etc)
