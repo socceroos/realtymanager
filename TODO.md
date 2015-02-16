@@ -5,7 +5,7 @@ Initial Realty Manager Features
 -------------------------------
 - User logins
 	- Basic login - DONE
-	- Create users
+	- Create users - DONE
 	- Edit users
 	- Change passwords
 	- Archive/Delete users
