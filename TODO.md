@@ -6,9 +6,9 @@ Initial Realty Manager Features
 - User logins
 	- Basic login - DONE
 	- Create users - DONE
-	- Edit users
-	- Change passwords
-	- Archive/Delete users
+	- Edit users - DONE
+	- Change passwords - DONE
+	- Archive/Delete users - DONE
 	- Assign users to Roles
 - Roles/ACL
 	- Role inheritance
