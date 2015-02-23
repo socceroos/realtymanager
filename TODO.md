@@ -9,17 +9,18 @@ Initial Realty Manager Features
 	- Edit users - DONE
 	- Change passwords - DONE
 	- Archive/Delete users - DONE
-	- Assign users to Roles
+	- Assign users to Roles - IN PROGRESS
 - Roles/ACL
-	- Role inheritance
-	- Role access to REST API
-	- Lock down REST API based on Role
+	- Role inheritance - IN PROGRESS
+	- Role access to REST API - IN PROGRESS
+	- Lock down REST API based on Role - IN PROGRESS
 - Properties
 	- Basic feature set for Property description and type
 	- Add property - DONE
 	- Edit property - DONE
 	- Delete/Archive property
 	- Link properties to contacts
+	- Add photos to a property
 - Contacts
 	- Add contacts - DONE
 	- Assign contacts to consultants
