@@ -9,7 +9,7 @@ Initial Realty Manager Features
 	- Edit users - DONE
 	- Change passwords - DONE
 	- Archive/Delete users - DONE
-	- Assign users to Roles - IN PROGRESS (solve router matching issue with REST API role authorities)
+	- Assign users to Roles - DONE
 - Roles/ACL
 	- Role inheritance - DONE
 	- Role access to REST API - DONE
