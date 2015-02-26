@@ -15,12 +15,12 @@ Initial Realty Manager Features
 	- Role access to REST API - DONE
 	- Lock down REST API based on Role - DONE
 - Properties
-	- Basic feature set for Property description and type
+	- Basic feature set for Property description and type - IN PROGRESS
 	- Add property - DONE
 	- Edit property - DONE
-	- Delete/Archive property
-	- Link properties to contacts
-	- Add photos to a property
+	- Delete/Archive property - IN PROGRESS
+	- Link properties to contacts - DONE
+	- Add photos to a property - IN PROGRESS
 - Contacts
 	- Add contacts - DONE
 	- Assign contacts to consultants
