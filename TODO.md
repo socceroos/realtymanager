@@ -65,3 +65,18 @@ Future Features
 	- Salaries and Salary Tiers
 	- Payment Summaries
 - Event based/driven architecture (already base plans)
+- Upload Properties to various real estate portals
+	- Realestate.com.au (have basic propertyList.xml api)
+	- Domain.com.au
+	- Realestateview.com.au
+	- realtor.com
+	- zillow.com
+	- trulia.com
+- Marketing module
+	- Window Cards
+	- Marketing packs and templates
+	- Property lists
+	- Newsletters
+	- Advertising (ad copy) generation
+- Groupware integration
+	- Events, appointements and schedules to Exchange/Kolab/Zarafa
