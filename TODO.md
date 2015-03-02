@@ -24,10 +24,14 @@ Initial Realty Manager Features
 - Contacts
 	- Add contacts - DONE
 	- Archive contacts
+	- Delete contacts
+	- Merge contacts
 	- Assign contacts to consultants
 	- Basic description, requirements and type for a contact
 	- Link contacts to properties
 	- Buyer Requirements
+	- Contact Notes
+	- Contact History log (Audit log - event sourcing?)
 - Schedule
 	- Ability to add reminders (quickly)
 	- Schedule templates (eg. for potential listings: vendor call backs, vendor appts, presentation preparation, send listing forms, etc)
@@ -41,6 +45,7 @@ Technical Goals for Initial Release
 -----------------------------------
 - Complete test coverage - 10%
 - Ability to swap out database (MySQL, PostgreSQL, etc)
+- Refactor route code to move business logic into model
 
 Miscellaneous
 -------------
@@ -50,6 +55,7 @@ Miscellaneous
 	- Insert basic Roles
 	- Batch assign basic Authorities for Roles
 	- Set up Administrator user
+	- Assign Administrator a basic Admin Role
 
 Future Features
 ---------------
