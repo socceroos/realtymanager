@@ -4,31 +4,31 @@ TODO List
 Initial Realty Manager Features
 -------------------------------
 - User logins
-	- Basic login - DONE
-	- Create users - DONE
-	- Edit users - DONE
-	- Change passwords - DONE
-	- Archive/Delete users - DONE
-	- Assign users to Roles - DONE
+	- Basic login - BE: DONE
+	- Create users - BE: DONE
+	- Edit users - BE: DONE
+	- Change passwords - BE: DONE
+	- Archive/Delete users - BE: DONE
+	- Assign users to Roles - BE: DONE
 - Roles/ACL
-	- Role inheritance - DONE
-	- Role access to REST API - DONE
-	- Lock down REST API based on Role - DONE
+	- Role inheritance - BE: DONE
+	- Role access to REST API - BE: DONE
+	- Lock down REST API based on Role - BE: DONE
 - Properties
-	- Basic feature set for Property description and type - DONE
-	- Add property - DONE
-	- Edit property - DONE
-	- Delete/Archive property - DONE
-	- Link properties to contacts - DONE
-	- Add photos to a property - IN PROGRESS
+	- Basic feature set for Property description and type - BE: DONE
+	- Add property - BE: DONE
+	- Edit property - BE: DONE
+	- Delete/Archive property - BE: DONE
+	- Link properties to contacts - BE: DONE
+	- Add photos to a property - BE: IN PROGRESS
 - Contacts
-	- Add contacts - DONE
-	- Archive contacts
-	- Delete contacts
+	- Add contacts - BE: DONE
+	- Archive contacts - BE: DONE
+	- Delete contacts - BE: DONE
 	- Merge contacts
-	- Assign contacts to consultants
-	- Basic description, requirements and type for a contact
-	- Link contacts to properties
+	- Assign contacts to consultants (First Point of Contact)
+	- Basic description, requirements and type for a contact - BE: DONE
+	- Link contacts to properties - BE: DONE
 	- Buyer Requirements
 	- Contact Notes
 	- Contact History log (Audit log - event sourcing?)
